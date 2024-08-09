@@ -1,17 +1,10 @@
 ABOUT ME
 
-Hi, I’m Taha Turan Akgüngör. I have finished my undergraduate education at Adana Alparslan Turkes Science and Technology University, Faculty of
-Engineering, Department of Computer Engineering with 3.13 GPA. In addition to the theoretical knowledge I have gained throughout my
-education life, I have developed myself by implementing projects in various fields. Also, I am always open to development. In
-my career, I will always be someone who pursues knowledge, constantly researches and achieves its goals. My most
-important and only goal will be to support the national struggle to reduce the foreign dependency of our country and to be
-able to work in this field.
+Hi, I am Taha Turan Akgüngör. I graduated with a Bachelor’s degree in Computer Engineering from Adana Alparslan Türkeş Science and Technology University, achieving a GPA of 3.13. 
+My education provided me with a strong foundation in theoretical concepts and practical experience through various projects. I am dedicated to continuous personal and professional growth. 
+In my career, I aim to be a lifelong learner, always seeking new knowledge and achieving my goals.
 
-
-My Purpose
-
-I am looking for an job related to the software industry where I can develop myself more in software, be involved in
-teamwork and take part in national projects.
+Currently, I work at Havelsan, where I continue to expand my skills and apply my expertise in a dynamic professional environment.
 
 EDUCATION AND TRAINING
 
